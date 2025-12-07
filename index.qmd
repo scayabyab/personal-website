@@ -1,8 +1,36 @@
 ---
 title: "Salvatore Cayabyab"
 ---
+---
+title: "Salvatore Cayabyab"
+about:
+  template: trestles
+  image: profile-pic.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/scayabyab
+    - text: LinkedIn
+      url: "https://linkedin.com/in/salcayabyab"
+    - text: Email
+      url: "mailto:salvatorecayabyab@gmail.com"
+      icon: inbox-fill
+    - text: CV
+      url: "cv.pdf"
+      
+      
+toc: false      
 
-```{r}
-1 + 1
-```
+---
+
+## Bio
+
+Salvatore Cayabyab is a student at the University of California, Los Angeles majoring in Statistics and Data Science.
+
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+
+B.S. in Statistics and Data Science | Sept 2024 - June 2026
 

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+
+
+## Drone Strikes in Yemen
+
+This project analyzes U.S. strike data in Yemen to understand how often civilians are harmed and how reliable casualty reporting has been over time. Using data from the Bureau of Investigative Journalism (2002–2019), we compared drone strikes to non-drone strikes and measured how much uncertainty there is in reported casualty numbers.
+
+DOWNLOAD REPORT [HERE](/yemen-report.pdf)
