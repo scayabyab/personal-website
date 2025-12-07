@@ -4,7 +4,7 @@ project:
 website:
   title: ""
   navbar:
-    left:
+    left: 
       - href: index.qmd
         text: Home
       - about.qmd
@@ -16,6 +16,10 @@ format:
       - brand
     css: styles.css
     toc: true
+
+
+execute: 
+  freeze: auto
 
 
 
