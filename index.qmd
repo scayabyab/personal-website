@@ -15,6 +15,8 @@ about:
     - text: Email
       url: "mailto:salvatorecayabyab@gmail.com"
       icon: inbox-fill
+    - text: RESUME
+      url: "cv.pdf"
       
       
 toc: false      
@@ -25,7 +27,6 @@ toc: false
 
 Salvatore Cayabyab is a student at the University of California, Los Angeles majoring in Statistics and Data Science.
 
-DOWNLOAD [CV](/cv.pdf)
 
 ## Education
 
